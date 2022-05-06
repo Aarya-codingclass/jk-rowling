@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+   background-color:antiquewhite ;
+    font-size: larger;
+}
+.menu{
+    list-style-type:none;
+    position: absolute;
+    cursor:pointer;
+    width: 100%;
+    margin-top: 0px;
+    z-index: 10;
+}
